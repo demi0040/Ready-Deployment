@@ -1,0 +1,1 @@
+{"version":3,"file":"createDB.js","sourceRoot":"","sources":["../../src/dbOperations/createDB.ts"],"names":[],"mappings":";;AAAA,mDAA+C;AAG/C,KAAK,UAAU,aAAa;IAC1B,IAAI;QACF,MAAM,IAAA,4BAAY,GAAE,CAAC;QACrB,OAAO,CAAC,GAAG,CAAC,wCAAwC,CAAC,CAAC;KACvD;IAAC,OAAO,KAAK,EAAE;QACd,OAAO,CAAC,KAAK,CAAC,gCAAgC,EAAE,KAAK,CAAC,CAAC;KACxD;AACH,CAAC;AAED,aAAa,EAAE,CAAC"}
