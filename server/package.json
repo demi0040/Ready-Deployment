@@ -1,5 +1,5 @@
 {
-  "name": "sqlite-express-server",
+  "name": "server",
   "version": "1.0.0",
   "description": "Express server with SQLite",
   "main": "dist/server.js",
